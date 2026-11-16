@@ -1,0 +1,1 @@
+# Bitget-trading-repository
